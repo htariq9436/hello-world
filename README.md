@@ -1,2 +1,2 @@
 # hello-world
-Just a test repo.
+Temporary repository for learning GitHub's workflow.
